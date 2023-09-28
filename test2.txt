@@ -6,3 +6,5 @@ Hello World
 I am updating this file from Github 
 after this i will be trying to perform pull request.
 let see how it goes.
+
+I am updating this file from Git repo. and creating a conflict
